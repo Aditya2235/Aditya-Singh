@@ -1,5 +1,4 @@
 # Aditya Ravindra Singh
-My Personal repository
 
 
 <img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" height="200" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
